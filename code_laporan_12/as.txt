@@ -1,0 +1,10 @@
+Pada bagian ini, kita akan membuat program untuk menampilkan 10 kata yang paling sering muncul
+dalam teks Romeo and Juliet Act 2, Scene 2. Program ini akan membaca teks,  sering menghitung frekuensi
+kemunculan setiap kata, dan mengurutkannya berdasarkan frekuensinya. Outputnya adalah 10 kata
+yang paling sering muncul beserta jumlah kemunculannya
+Pada bagian ini, kita akan membuat program untuk menampilkan 10 kata yang paling sering muncul
+dalam teks Romeo and Juliet Act 2, Scene 2. sering Program ini akan membaca teks, menghitung frekuensi
+kemunculan setiap kata,  kata kata
+sering Pada bagian ini, kita akan membuat program untuk menampilkan 10 kata yang paling sering muncul
+dalam teks Romeo and Juliet Act 2, Scene 2. Program ini akan membaca teks, menghitung frekuensi
+kemunculan setiap kata, sering
